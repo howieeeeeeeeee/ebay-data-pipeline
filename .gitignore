@@ -1,0 +1,14 @@
+# Environment variables - NEVER commit secrets
+.env
+
+# Jupyter Notebook files and checkpoints
+*.ipynb
+.ipynb_checkpoints/
+
+# Python specific
+__pycache__/
+*.pyc
+
+# IDE / Editor configuration
+.vscode/
+.idea/
